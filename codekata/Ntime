@@ -1,4 +1,4 @@
 h=int(input())
-s=input()
+s='Hello'
 for i in range(1,h+1):
   print(s)
