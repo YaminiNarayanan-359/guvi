@@ -1,12 +1,14 @@
 g,k=input().split()
 g=int(g)
 k=int(k)
-for t in range(g+1,k):
+c=0
+for t in range(g,k):
   if(t>1):
     for j in range(2,t):
       if(t%j==0):
         break
     else:
-      print(t,end=' ')
+      c=c+1
   else:
     break
+print(c)
