@@ -1,0 +1,11 @@
+y=(input())
+if(y=="I"):
+  print("1")
+elif(y=="II"):
+  print("2")
+elif(y=="III"):
+  print("3")
+elif(y=="IV"):
+  print("4")
+elif(y=="V"):
+  print("5")
