@@ -9,3 +9,13 @@ elif(y=="IV"):
   print("4")
 elif(y=="V"):
   print("5")
+elif(y=="VI"):
+  print("6")
+elif(y=="VII"):
+  print("7")
+elif(y=="VIII"):
+  print("8")
+elif(y=="IX"):
+  print("9")
+elif(y=="X"):
+  print("10")
