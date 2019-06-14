@@ -1,2 +1,3 @@
-h=int(input())
-print(h+1)
+o=int(input())
+v=o+1
+print(v)
