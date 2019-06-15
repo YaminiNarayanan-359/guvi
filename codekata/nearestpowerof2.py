@@ -1,2 +1,3 @@
-h=int(input())
-print(h*2)
+p=int(input())
+g=p*2
+print(g)
