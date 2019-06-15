@@ -1,3 +1,3 @@
-h=input()
-d=ord(h)
+u=input()
+d=ord(u)
 print(d)
