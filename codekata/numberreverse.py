@@ -1,3 +1,3 @@
 u=input()
-f=u[::-1]
-print(f)
+rev=u[::-1]
+print(rev)
