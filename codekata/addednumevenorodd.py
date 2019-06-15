@@ -3,4 +3,4 @@ h=l+n
 if(h%2==0):
   print('even')
 else:
-  print('no')
+  print('odd')
